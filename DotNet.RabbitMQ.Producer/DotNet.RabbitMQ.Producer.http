@@ -1,0 +1,6 @@
+@DotNet.RabbitMQ.Producer_HostAddress = http://localhost:5191
+
+GET {{DotNet.RabbitMQ.Producer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
